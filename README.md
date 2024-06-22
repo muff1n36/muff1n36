@@ -14,7 +14,7 @@ Hey! I'm muffinV136, known often as Muffin. You wanna know me? Let's rewind back
 
 
 <p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="36" height="36" alt="Photoshop" /></a>   <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" width="36" height="36" alt="Apple/MacOS" /></a>
+<a href="https://github.com/muffinV136#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="36" height="36" alt="Photoshop" /></a>   <a href="https://github.com/muffinV136#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" width="36" height="36" alt="Apple/MacOS" /></a>
 </p>
 
 
