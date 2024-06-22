@@ -15,7 +15,7 @@ Hey! I'm muffinV136, known often as Muffin. You wanna know me? Let's rewind back
 
 <p align="left">
 [](https://skillicons.dev/icons?i=ps,apple,azureperline=2)
-</p>]
+</p>
 
 ### Socials
 
