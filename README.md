@@ -6,10 +6,13 @@ Graphic Designer without a Degree
 
 Hey! I'm muffinV136, known often as Muffin. You wanna know me? Let's rewind back in time then. \[Tsar Bomba go boom\] Too far. \[Fast forward\] There. Long story short my mother had just gotten student relief and was accepted back into her college, she bought a mac and took Graphics Communication classes. I became interested and started using photoshop.
 
+<h1>
 * 🧠  I'm learning website developing and learning Illustrator!
 * 🤝  I'm open to collaborating on any non-vector graphics work atm.
+* 🎧  Listens to too much of System of a Down
 * 🐾  You've heard the rumors, yes, I'm a furry.
-
+</h1>
+  
 ### Skills
 
 
