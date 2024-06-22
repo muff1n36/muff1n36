@@ -14,9 +14,8 @@ Hey! I'm muffinV136, known often as Muffin. You wanna know me? Let's rewind back
 
 
 <p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
-
+[](https://skillicons.dev/icons?i=ps,apple,azureperline=2)
+</p>]
 
 ### Socials
 
