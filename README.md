@@ -8,7 +8,7 @@ Hey! I'm muffinV136, known often as Muffin. You wanna know me? Let's rewind back
 
 * 🧠  I'm learning website developing and learning Illustrator!
 * 🤝  I'm open to collaborating on any non-vector graphics work atm.
-* ⚡  You've heard the rumors, yes, I'm gay.
+* 🐾  You've heard the rumors, yes, I'm a furry.
 
 ### Skills
 
