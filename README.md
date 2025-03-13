@@ -4,7 +4,7 @@ Heyo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Graphic Designer without a Degree
 ---------------------------------
 
-Hey! I'm muffinV136, known often as Muffin. Not too much to know other than being a geek on random topics and liking S.O.A.D.
+Hey! I'm muff1n36, known often as Muffin (or muff1n). Not too much to know other than being a geek on random topics and liking S.O.A.D.
 
 
 * 🧠  I'm learning website developing and learning Illustrator!
