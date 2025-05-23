@@ -1,10 +1,10 @@
-Heyo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is muff1n36
+Heyo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is (no longer) muff1n36
 ==================================================================================================================================
 
 Graphic Designer without a Degree
 ---------------------------------
 
-Hey! I'm muff1n36, known often as Muffin (or muff1n). Not too much to know other than being a geek on random topics and liking S.O.A.D.
+Hey! I'm fka muff1n36, with the varation of Muffin (or muff1n). Not too much to know other than being a geek on random topics, changing my username sometime and liking S.O.A.D.
 
 
 * 🧠  I'm learning website developing and learning Illustrator!
